@@ -1,4 +1,5 @@
-﻿using System;
+//info ...
+using System;
 
 namespace ConsoleApp37
 {
